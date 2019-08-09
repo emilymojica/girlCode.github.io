@@ -1,0 +1,197 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: white;
+}
+h1 {
+  background-color: #e3fcfc;
+  font-size: 80px;
+  color: #FF69B4;
+  font-family: monaco,Consolas,Lucida Console,monospace;
+  text-align: center;
+}
+
+.navigation-bar {
+  background-color: white;
+  text-align: center;
+  margin: 40px
+
+}
+
+.navigation-bar a {
+  font-size: 35px;
+  color: pink;
+  margin: 20px;
+  font-family: courier;
+}
+
+.aboutUs {
+  background-color: #e3fcfc;
+  color: #FF69B4;
+  padding: 40px;
+  font-size: 30px;
+  text-align: center;
+  margin: 40px;
+  font-family: courier;
+
+}
+
+.welcome {
+  background-color: #e3fcfc;
+  color: #FF69B4;
+  padding: 40px;
+  font-size: 30px;
+  text-align: center;
+  margin: 40px;
+  font-family: courier;
+}
+
+.clubsAndClasses {
+  background-color: #e3fcfc;
+  color: #FF69B4;
+  padding: 40px;
+  font-size: 30px;
+  text-align: center;
+  margin: 40px;
+  font-family: courier;
+}
+
+
+.resources {
+  background-color: #e3fcfc;
+  color: #FF69B4;
+  padding: 40px;
+  font-size: 25px;
+  text-align: center;
+  margin: 40px;
+  font-family: courier;
+}
+
+.resourcesTitle{
+  font-size: 30px;
+}
+
+.programLinks {
+  background-color: #e3fcfc;
+  color: #FF69B4;
+  font-size: 30px;
+  text-align: center;
+  margin: 50px;
+  font-family: courier;
+}
+
+
+.images{
+  height: 200px;
+  display: flex;
+}
+.kwk{
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.gwc{
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.alexaCafe{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.codecademy {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.codeorg {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.khanacademy {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.ageText{
+  display:inline;
+  margin-top: 5px
+  font-size: 17px;
+}
+
+.ageTextContainer{
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+button{
+  font-family: courier;
+  font-size: 11px;
+  padding: 11px;
+  border-radius: 60px;
+  color: white;
+  background-color: hotpink;
+}
+
+.submit{
+  margin: 50px;
+}
+
+.switchColor{
+  display:flex;
+  justify-content: center;
+}
+
+.light{
+  font-size: 41px;
+  padding: 12px 23px;
+}
+
+.dark{
+  font-size: 30px;
+  padding: 12px 21px;
+}
+
+.girlgif{
+  margin-top: 20px;
+}
+.meganEmily{
+  height: 300px;
+  margin: 50px;
+}
+
+
+.aboutImages{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.welcomeGirl{
+  margin-bottom: 50px;
+}
